@@ -1,0 +1,21 @@
+1) Check Google logo
+2) Possibility to use keyboard in search
+3) possibility to search by voice
+4) changing languageas
+5) try "I'm lucky" search
+6) try google images search
+6.1) images search by photo
+6.1.1) by uploaded photo
+6.1.2) by URl adress
+7) search by News
+8) search by video
+9) search by maps
+10) search by more..
+10.1) search by books
+10.2) search by buys
+11) Settings of search
+12) Safe search
+13) history
+14) help about search
+-- additional scenarios to each main block of search
+search instruments: search by location, language, date, size, popularity)
